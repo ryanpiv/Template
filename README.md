@@ -7,5 +7,9 @@
 - https://marketplace.visualstudio.com/items?itemName=stylelint.vscode-stylelint
 - https://marketplace.visualstudio.com/items?itemName=mrmlnc.vscode-stylefmt
 
-npx eslint --init
+### ESLint
+- install cli globally
+- eslint --init
+  - npm -g i eslint-cli
+
 npm install --save-dev stylelint stylelint-config-standard
